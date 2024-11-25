@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* section-1 */
+
+.section-1 {
+    background: rgba(30, 113, 255, 1);
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+ul li a {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    text-align: right;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none !important;
+}
+
+.try-button {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 210px;
+    border: 1px solid RGB(75 141 255);
+    width: 111px;
+    height: 40px;
+
+}
+
+.box {
+    padding-top: 134px;
+}
+
+.text-chat {
+    font-family: "Poppins", sans-serif;
+    font-size: 75px;
+    font-weight: 600;
+    line-height: 96.3px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.para-chat {
+    font-family: "Roboto", sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24.61px;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    color: rgba(255, 255, 255, 1);
+    opacity: 89%;
+}
+
+.free-btn {
+    background: rgba(255, 255, 255, 1);
+    width: 172px;
+    height: 50px;
+    border-radius: 60px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    margin-right: 20px !important;
+    text-align: center;
+    color: rgba(30, 113, 255, 1);
+    border: 1px solid rgba(255, 255, 255, 1);
+
+}
+
+.free-btn:hover {
+    background-color: rgb(42, 42, 139);
+}
+
+.demo-btn:hover {
+    background-color: rgb(42, 42, 139);
+}
+
+.demo-btn {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(255, 255, 255, 1);
+    background: rgba(30, 113, 255, 1);
+    width: 168px;
+    height: 50px;
+    border-radius: 60px;
+}
+
+.box-img {
+    padding-top: 47px;
+}
+
+/* section-2 */
+.section-2 {
+    padding-top: 60px;
+}
+
+.heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 57.78px;
+    text-align: center;
+    color: rgba(43, 53, 62, 1);
+
+}
+
+.para-lorem {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.11px;
+    text-align: center;
+    color: rgba(43, 53, 62, 0.7);
+    padding-top: 20px;
+
+}
+
+/* section-3 */
+.section-3 {
+    background: rgba(30, 113, 255, 0.1);
+    position: relative;
+    padding: 50px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img[alt="logo"] {
+    cursor: pointer;
+}
+
+.businesses {
+    font-family: "Poppins", sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 57.78px;
+    text-align: left;
+    color: rgba(43, 53, 62, 1);
+
+}
+
+.glove {
+    font-family: "Roboto", sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 33.96px;
+    text-align: left;
+    color: rgba(43, 53, 62, 0.7);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.it-btn {
+    background: rgba(30, 113, 255, 1);
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 19.92px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    width: 167px;
+    height: 50px;
+    margin-right: 20px;
+    border-radius: 60px;
+    border: 1px solid rgba(30, 113, 255, 1);
+}
+
+.get-btn {
+    color: rgba(30, 113, 255, 1);
+    border: 1px solid rgba(30, 113, 255, 1);
+    width: 169px;
+    height: 50px;
+    border-radius: 60px;
+    background: RGB(233 241 255);
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 19.92px;
+    text-align: center;
+
+}
+
+.line::after {
+    display: inline-block;
+    content: "";
+    border: 1px solid rgba(43, 53, 62, 0.15);
+    width: 167px;
+    margin-top: 90px;
+    transform: translateY(-1rem);
+}
+
+.para-chatup {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 29.11px;
+    text-align: left;
+    color: rgba(43, 53, 62, 0.7);
+    padding-top: 51px;
+
+}
+
+.para-span {
+    color: rgba(43, 53, 62, 0.7);
+    opacity: 61%;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.11px;
+    text-align: left;
+
+
+}
+
+/* section-4 */
+.section-4 {
+    padding: 90px;
+}
+
+.chat {
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 30.16px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(30, 113, 255, 1);
+
+}
+
+.app {
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: 200;
+    line-height: 30.16px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(30, 113, 255, 1);
+}
+
+.chat-team {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24.25px;
+    text-align: left;
+    color: rgba(43, 53, 62, 0.7);
+    padding-top: 18px;
+}
+
+.header-ul {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.11px;
+    text-align: left;
+    color: rgba(43, 53, 62, 1);
+    padding-bottom: 20px;
+
+}
+
+.ul-chat li a {
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21.02px;
+    text-align: left;
+    color: rgba(43, 53, 62, 0.7);
+}
+
+.ul-chat {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* media quary */
+@media (max-width:992px) {
+    .column {
+        flex-direction: column-reverse !important;
+    }
+}
+
+@media (min-width:992px) {
+    img[alt="overflow"] {
+        display: none !important;
+    }
+
+    .section-3::after {
+        content: "";
+        position: absolute;
+        width: 50%;
+        left: 0;
+
+        height: 80%;
+        background-image: url(../image/png/overflow-img.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+}
+
+@media (max-width:992px) {
+    label[for="menu-list"] {
+        width: 30px;
+        height: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+        position: relative;
+        z-index: 3;
+    }
+
+    label[for="menu-list"]>span {
+        width: 100%;
+        height: 3px;
+        background-color: white;
+        z-index: 2;
+    }
+
+    input#menu-list:checked~.ul-modify {
+        background-color: lightseagreen;
+        right: 0;
+    }
+
+    input:checked~label[for="menu-list"]>span:nth-child(1) {
+        transform: rotate(64deg);
+        transform-origin: left;
+    }
+
+    input:checked~label[for="menu-list"]>span:nth-child(2) {
+        transform: rotate(-40deg);
+        opacity: 0;
+
+    }
+
+    input:checked~label[for="menu-list"]>span:nth-child(3) {
+        transform: rotate(-63deg);
+        transform-origin: left;
+    }
+
+    .ul-modify {
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background: black;
+        position: fixed;
+        top: 0;
+        right: -100%;
+        z-index: 1;
+        transition: all 200ms linear;
+    }
+
+}
