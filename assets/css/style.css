@@ -7,12 +7,12 @@
 
 .section-1 {
     background: rgba(30, 113, 255, 1);
-    padding-top: 30px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 nav {
-    margin: auto;
+    margin: auto !important;
 }
 
 ul li a {
@@ -112,7 +112,7 @@ ul li a {
 /* section-2 */
 .section-2 {
     padding-top: 60px;
-    
+
 }
 
 .heading {
@@ -151,6 +151,7 @@ ul li a {
 
 img[alt="logo"] {
     cursor: pointer;
+    padding-bottom: 5px;
 }
 
 .businesses {
@@ -189,14 +190,17 @@ img[alt="logo"] {
     border-radius: 60px;
     border: 1px solid rgba(30, 113, 255, 1);
 }
-.it-btn:hover{
-    background-color:rgba(28, 135, 168, 0.2);
-    
+
+.it-btn:hover {
+    background-color: rgba(28, 135, 168, 0.2);
+
 }
-.get-btn:hover{
-    background-color:rgba(40, 167, 193, 0.809);
-    
+
+.get-btn:hover {
+    background-color: rgba(40, 167, 193, 0.809);
+
 }
+
 .get-btn {
     color: rgba(30, 113, 255, 1);
     border: 1px solid rgba(30, 113, 255, 1);
@@ -277,7 +281,7 @@ img[alt="logo"] {
     line-height: 24.25px;
     text-align: left;
     color: rgba(43, 53, 62, 0.7);
-  
+
 }
 
 .header-ul {
